@@ -36,7 +36,7 @@ Running test requires presense of following files with test vectors in binarie's
 Decryption of file
 ==================
 
- $ Vigenere decrypt <input file name>
+ $ Vigenere decrypt [input file name]
 
  Decrypt provided file and show result to console output
 
